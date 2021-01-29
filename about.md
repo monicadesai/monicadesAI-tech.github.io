@@ -32,9 +32,9 @@
 | <span style="color:blue">**Area**</span> | <span style="color:blue">**_Expertise**</span></span></span></span></span></span></span></span>|
 | :----------------------------------------- | ---------------------------------------------------------------------------------------------|
 | **Machine Learning**                       |             Regression, Classification, Clustering, Parameter Tuning, Dimensionality Reduction, Feature Engineering, Scraping, Deployment, Version Control, Modelling and Evaluation, Optimization |                                                                            
-| **Data Analysis**                          |             _EDA, _Research, _Predictive, _Data Manipulation, _Interpretation               |
-| **Data Visualisation**                     |             _Pattern Identification, _Story Telling, _Interactive Interfaces,_Matplotlib, _Seaborn, _Tableau |                               
-| ** Databases**                             |             _MySQL, _NoSQL, _PostgreSQL                                                     |
+| **Data Analysis**                          |             EDA, Research, Predictive, Data Manipulation, Interpretation                     |
+| **Data Visualisation**                     |             Pattern Identification, Story Telling, Interactive Interfaces, Matplotlib, Seaborn, Tableau |                               
+| ** Databases**                             |             MySQL, NoSQL, PostgreSQL                                                          |
 | **Mathematics**                            |             _Statistics, _Probability, _Theory                                              |
 | **Web Tools/Front-End Technologies**       |             _HTML, _CSS, _VS Code, _Bootstrape, _Selenium                                   |
 | ** Modelling/Algorithms/Architecture**     |             _Statistical,_Linear, _Logistic, _Random Forest,_Decision Tree, _Boosting, _K-means, _Convolution Neural Network, _Neural Network  |                                                                                                                                                                                                                   
