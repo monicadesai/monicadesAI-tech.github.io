@@ -4,8 +4,7 @@
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_65" title="GitHub Repository" target="_blank">Car Price Prediction Application</a> &nbsp; 
-![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/monicadesAI-tech/Project_65" title="GitHub Repository" target="_blank">Car Price Prediction Application</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -58,9 +57,7 @@
 * Drove right from preprocess till deployment of a **practically handy one-click** in interest of end-users.
 
 <!-- image -->
-<!---
 <p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/flight-price-pred.jpg"></p>
---->
 
 <!-- buttons -->
 
@@ -81,9 +78,7 @@
 * **Productionized scalable** application interface on Heroku cloud. 
 
 <!-- image -->
-<!---
 <p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/cricket.jpg"></p>
---->
 
 <!-- buttons -->
 
@@ -105,9 +100,7 @@
 * **Scaled down 25% manual errors through automated ML which used customized pipeline** that sparked in time and resource saving app. 
 
 <!-- image -->
-<!---
 <p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/salary-pred.gif"></p>
---->
 
 <!-- buttons -->
 
@@ -130,10 +123,7 @@
 
 
 <!-- image -->
-<!---
 <p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/banknote2.gif"></p>
---->
-
 
 <!-- buttons -->
 
@@ -156,10 +146,7 @@
 *  Hosted an app by **creating public URL on free** and young Streamlit Cloud. 
 
 <!-- image -->
-<!---
 <p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/Business-Development-Strategies.gif"></p>
---->
-
 
 <!-- buttons -->
 
@@ -183,10 +170,7 @@
 
 
 <!-- image -->
-<!---
 <p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/cotton-pred.gif"></p>
---->
-
 
 <!-- buttons -->
 
@@ -208,10 +192,7 @@
 * **Established an app** by deploying on Heroku.
 
 <!-- image -->
-<!---
 <p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/basketball1.gif"></p>
---->
-
 
 <!-- buttons -->
 
