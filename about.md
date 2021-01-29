@@ -31,9 +31,7 @@
 
 | <span style="color:blue">**Area**</span> | <span style="color:blue">**_Expertise**</span></span></span></span></span></span></span></span>|
 | :----------------------------------------- | ---------------------------------------------------------------------------------------------|
-| **Machine Learning**                       |             _Regression, _Classification, _Clustering, _Parameter Tuning,                   
-                                                           _Dimensionality Reduction,  _Feature Engineering, _Scraping, _Deployment,       
-                                                           _Version Control, Modelling and Evaluation, Optimization                        |
+| **Machine Learning**                       |             _Regression, _Classification, _Clustering, _Parameter Tuning,_Dimensionality Reduction,  _Feature Engineering, _Scraping, _Deployment, _Version Control, Modelling and Evaluation, Optimization |                                                                            
 | **Data Analysis**                          |             _EDA, _Research, _Predictive, _Data Manipulation, _Interpretation               |
 | **Data Visualisation**                     |             _Pattern Identification, _Story Telling, _Interactive Interfaces,               |
                                                            _Matplotlib, _Seaborn, _Tableau                                                 |
