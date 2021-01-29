@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://monicadesAI-tech.github.io
+url:                   https://monicadesai-tech.github.io/
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -28,7 +28,8 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Budding Data Scientist || Zealous AI Ninja || Feasible Techie || Craftmanship Interrogater
+  Budding Data Scientist || Zealous AI Ninja          || 
+  Feasible Techie        || Craftmanship Interrogater ||
 
 # A list of keywords for your blog
 keywords:              []
@@ -301,6 +302,7 @@ plugins:
 #   links:
 #     - https://linkedin.com/md92
 #     - https://github.com/monicadesAI-tech
+#     - https://github.com/monicadesai-tech.github.io
 
 
 # Other Plugins
