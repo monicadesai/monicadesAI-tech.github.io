@@ -1,2 +1,2 @@
-# monicadesAI-tech-Website-Portfolio
+# monicadesAI-tech-WebPortfolio
 Data Science Portfolio - Monica Desai
