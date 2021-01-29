@@ -15,7 +15,7 @@
 * Built free, scale-ready and **just a click away web app** on user-friendly Paas infrastructure.
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/car-price-pred.jpeg"></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/car-price-pred.jpeg" width="800"></p>
 
 <!-- buttons -->
 
@@ -36,7 +36,7 @@
 * Secured Finest RMSE Score for Random Forest model and deployed on **Streamlit as well as Heroku Cloud Platforms**.
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/gdp1.jpg"></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/gdp1.jpg" width="800"></p>
 
 <!-- buttons -->
 
@@ -57,7 +57,7 @@
 * Drove right from preprocess till deployment of a **practically handy one-click** in interest of end-users.
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/flight-price-pred.jpg"></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/flight-price-pred.jpg" width="800"></p>
 
 <!-- buttons -->
 
@@ -78,7 +78,7 @@
 * **Productionized scalable** application interface on Heroku cloud. 
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/cricket.jpg"></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/cricket.jpg" width="800"></p>
 
 <!-- buttons -->
 
@@ -100,7 +100,7 @@
 * **Scaled down 25% manual errors through automated ML which used customized pipeline** that sparked in time and resource saving app. 
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/salary-pred.gif"></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/salary-pred.gif" width="800"></p>
 
 <!-- buttons -->
 
@@ -123,7 +123,7 @@
 
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/banknote2.gif"></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/banknote2.gif" width="800"></p>
 
 <!-- buttons -->
 
@@ -146,11 +146,11 @@
 *  Hosted an app by **creating public URL on free** and young Streamlit Cloud. 
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/Business-Development-Strategies.gif"></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/Business-Development-Strategies.gif" width="800"></p>
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://mlbusinessdevelopmentapp.herokuapp.com/" target="_blank"><img src="button-live-web-app.png" /></a> &nbsp; &nbsp; <a href="sales.html" target="_blank"><img src="button-website" /></a> &nbsp; &nbsp; <a href="https://github.com/monicadesAI-tech/Project_79" target="_blank"><img src="button-github-repo.png" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://mlbusinessdevelopmentapp.herokuapp.com/" target="_blank"><img src="button-live-web-app.png" /></a> &nbsp; &nbsp; <a href="sales.html" target="_blank"><img src="button-website.png" /></a> &nbsp; &nbsp; <a href="https://github.com/monicadesAI-tech/Project_79" target="_blank"><img src="button-github-repo.png" /></a>
 
 
 
@@ -170,7 +170,7 @@
 
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/cotton-pred.gif"></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/cotton-pred.gif" width="800"></p>
 
 <!-- buttons -->
 
@@ -192,7 +192,7 @@
 * **Established an app** by deploying on Heroku.
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/basketball1.gif"></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/basketball1.gif" width="800"></p>
 
 <!-- buttons -->
 
@@ -217,7 +217,7 @@
 * **Improved under-fitted model accuracy 3times more** with the help of epochs that tuned into optimized curve. 
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/carbrand.png"></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/carbrand.png" width="800"></p>
 
 <!-- buttons -->
 
@@ -229,8 +229,7 @@
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_10" title="GitHub Repository" target="_blank">Solid-Waste Identifier</a> &nbsp; 
-![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/monicadesAI-tech/Project_10" title="GitHub Repository" target="_blank">Solid-Waste Identifier</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -241,7 +240,7 @@
 * Not only techinical learning **but also escalated insights on revolutionary gadgets for visionary society**.
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/smartbins2.gif"></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/smartbins2.gif" width="800"></p>
 
 <!-- buttons -->
 
@@ -253,8 +252,7 @@
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_19" title="GitHub Repository" target="_blank">Live Video Sketcher</a> &nbsp; 
-![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/monicadesAI-tech/Project_19" title="GitHub Repository" target="_blank">Live Video Sketcher</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -263,7 +261,7 @@
 
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/Video-Sketching.mp4"></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/Video-Sketching.mp4" width="800"></p>
 
 <!-- buttons -->
 
