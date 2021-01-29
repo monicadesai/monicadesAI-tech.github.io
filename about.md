@@ -54,17 +54,17 @@
 
 `2018-2020` **University of Mumbai**
 
-: Masters in **Information Technology**
-: **GPA**: **9.5/10.0**
+ Masters in **Information Technology**
+ **GPA**: **9.5/10.0**
 
 `2020-2021` **TCS Certification**
 
-: Post Graduate Certified in **Data Science & AI**
+ Post Graduate Certified in **Data Science & AI**
 
 `2009-2012` **University of Mumbai**
 
-: Bachelor of science in **Information Technology**
-: **GPA**: **5.0/7.0**
+ Bachelor of science in **Information Technology**
+ **GPA**: **5.0/7.0**
 
 
 
