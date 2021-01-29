@@ -2,7 +2,7 @@
 
 <span style="color:blue">**<a href="mailto:monicadesai92@gmail.com">monicadesai92@gmail.com</a>
 |
-<a href="https://monicadesAI-tech.github.io" target="_blank">Personal Website</a>
+<a href="https://monicadesai-tech.github.io/" target="_blank">Personal Website</a>
 |
 <a href="https://github.com/monicadesAI-tech" target="_blank">GitHub</a>
 |
@@ -29,27 +29,28 @@
 5. C/C++
 ```
 
-| <span style="color:blue">**Area**</span> | <span style="color:blue">**_Expertise**</span>                                             |
+| <span style="color:blue">**Area**</span> | <span style="color:blue">**_Expertise**</span></span></span></span></span></span></span></span>|
 | :----------------------------------------- | --------------------------------------------------------------------------------------- --|
 | **Machine Learning**                       |             _Regression, _Classification, _Clustering, _Parameter Tuning,                 |
-|                                            |             _Dimensionality Reduction,  _Feature Engineering, _Scraping, _Deployment,     |
-|                                            |             _Version Control, Modelling and Evaluation, Optimization                      |
+|                                                          _Dimensionality Reduction,  _Feature Engineering, _Scraping, _Deployment,     |
+|                                                          _Version Control, Modelling and Evaluation, Optimization                      |
 | **Data Analysis**                          |             _EDA, _Research, _Predictive, _Data Manipulation, _Interpretation             |
-| **Data Visualisation**                     |             _Pattern Identification, _Story Telling, _Interactive Interfaces,             |   |                                            |             _Matplotlib, _Seaborn, _Tableau                                               |
+| **Data Visualisation**                     |             _Pattern Identification, _Story Telling, _Interactive Interfaces,             |
+                                                           _Matplotlib, _Seaborn, _Tableau                                               |
 | ** Databases**                             |             _MySQL, _NoSQL, _PostgreSQL                                                   |
 | **Mathematics**                            |             _Statistics, _Probability, _Theory                                            |
 | **Web Tools/Front-End Technologies**       |             _HTML, _CSS, _VS Code, _Bootstrape, _Selenium                                 |
 | ** Modelling/Algorithms/Architecture**     |             _Statistical,_Linear, _Logistic, _Random Forest,                              |
-|                                            |             _Decision Tree, _Boosting, _K-means, _Convolution Neural Network,             |
-|                                            |             _Neural Network                                                               |
+|                                                          _Decision Tree, _Boosting, _K-means, _Convolution Neural Network,             |
+|                                                          _Neural Network                                                               |
 | ** Frameworks **                           |             _Flask, _Scikit-Learn, _TensorFlow, _Keras, _PyTorch, _Scrapy                 |
 | **Libraries/Packages **                    |             _Numpy, _Pandas, _Seaborn, _Matplotlib,                                       |
-|                                            |             _Networkx, _SciPy, _Pillow, _OpenCV,                                          |
-|                                            |             _Spacy, _Eli5, _Bokeh, _Plotly,                                               |
-|                                            |             _Requests, _BeautifulSoup,  _Googletrans, _OpenCV                             |
+|                                                          _Networkx, _SciPy, _Pillow, _OpenCV,                                          |
+|                                                          _Spacy, _Eli5, _Bokeh, _Plotly,                                               |
+|                                                          _Requests, _BeautifulSoup,  _Googletrans, _OpenCV                             |
 | **Deep Learning **                         |             _Image Processing, _Image Classification, _Image Segmentation, _Transormation | 
-|                                            |             _Data  Augmentation, _Natural Language Processing, _Computer Vision,          |
-|                                            |             _Object Detection, _Image Recognition, _Masking, _Type Annotation, _Labeling  | 
+|                                                          _Data  Augmentation, _Natural Language Processing, _Computer Vision,          |
+|                                                          _Object Detection, _Image Recognition, _Masking, _Type Annotation, _Labeling  | 
                                                            
 
 
