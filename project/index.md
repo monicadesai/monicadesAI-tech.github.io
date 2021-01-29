@@ -104,7 +104,7 @@
 
 <!-- buttons -->
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="salarypred.html" target="_blank"><img src="button-website.png" /></a> &nbsp; &nbsp; <a href="https://github.com/monicadesAI-tech/Project_67" target="_blank"><img src="button-github-repo" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="salarypred.html" target="_blank"><img src="button-website.png" /></a> &nbsp; &nbsp; <a href="https://github.com/monicadesAI-tech/Project_67" target="_blank"><img src="button-github-repo.png" /></a>
 
 
 
