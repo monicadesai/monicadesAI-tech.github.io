@@ -97,19 +97,19 @@
 
 <span style="color:blue">**<a href="mailto:monicadesai92@gmail.com">monicadesai92@gmail.com</a>
 |
-<a href="https://monicadesAI-tech.github.io" target="_blank">Personal Website</a>
+<a href="https://monicadesai-tech.github.io/" target="_blank">Personal Website</a>
 |
 <a href="https://github.com/monicadesAI-tech" target="_blank">GitHub</a>
 |
-<a href="https://linkedin.com/in/md92" target="_blank">LinkedIn</a>**</span>
+<a href="https://linkedin.com/in/md92" target="_blank">LinkedIn</a>
 |
-<a href="https://twitter.com/MonicaDesai92" target="_blank">Twitter</a>**</span>
+<a href="https://twitter.com/MonicaDesai92" target="_blank">Twitter</a>
 |
-<a href="" target="_blank">Instagram</a>**</span>
+<a href="" target="_blank">Instagram</a>
 |
-<a href="" target="_blank">PDF Paper Resume</a>**</span>
+<a href="" target="_blank">PDF Paper Resume</a>
 |
-<a href="" target="_blank">Visual Resume</a>**</span>
+<a href="" target="_blank">Visual Resume</a>
 |
 <a href="" target="_blank">Video Resume</a>**</span>
 
