@@ -34,13 +34,13 @@
 | **Machine Learning**                       |             Regression, Classification, Clustering, Parameter Tuning, Dimensionality Reduction, Feature Engineering, Scraping, Deployment, Version Control, Modelling and Evaluation, Optimization |                                                                            
 | **Data Analysis**                          |             EDA, Research, Predictive, Data Manipulation, Interpretation                     |
 | **Data Visualisation**                     |             Pattern Identification, Story Telling, Interactive Interfaces, Matplotlib, Seaborn, Tableau |                               
-| ** Databases**                             |             MySQL, NoSQL, PostgreSQL                                                          |
+| **Databases**                              |             MySQL, NoSQL, PostgreSQL                                                          |
 | **Mathematics**                            |             Statistics, Probability, Theory                                                   |
 | **Web Tools/Front-End Technologies**       |             HTML, CSS, VS Code, Bootstrape, Selenium                                          |
-| ** Modelling/Algorithms/Architecture**     |             Statistical, Linear, Logistic, Random Forest, Decision Tree, Boosting, K-means, Convolution Neural Network, Neural Network  |                                                                                                                                                                                                                   
-| ** Frameworks **                           |             Flask, Scikit-Learn, TensorFlow, Keras, PyTorch, Scrapy |
-| **Libraries/Packages **                    |             Numpy, Pandas, Seaborn, Matplotlib, Networkx, SciPy, Pillow, OpenCV, Spacy, Eli5, Bokeh, Plotly,  Requests, BeautifulSoup, Googletrans |                                         
-| **Deep Learning **                         |             Image Processing, Image Classification, Image Segmentation, Transormation, Data  Augmentation, Natural Language Processing, Computer Vision,  Object Detection, Image Recognition, Masking, Type Annotation, Labeling  |
+| **Modelling/Algorithms/Architecture**      |             Statistical, Linear, Logistic, Random Forest, Decision Tree, Boosting, K-means, Convolution Neural Network, Neural Network  |                                                                                                                                                                                                                   
+| **Frameworks**                             |             Flask, Scikit-Learn, TensorFlow, Keras, PyTorch, Scrapy |
+| **Libraries/Packages**                     |             Numpy, Pandas, Seaborn, Matplotlib, Networkx, SciPy, Pillow, OpenCV, Spacy, Eli5, Bokeh, Plotly,  Requests, BeautifulSoup, Googletrans |                                         
+| **Deep Learning**                         |             Image Processing, Image Classification, Image Segmentation, Transormation, Data  Augmentation, Natural Language Processing, Computer Vision,  Object Detection, Image Recognition, Masking, Type Annotation, Labeling  |
                                                                      
                                                            
                                                            
