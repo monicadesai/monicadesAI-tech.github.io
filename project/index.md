@@ -261,7 +261,7 @@
 
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/Video-Sketching.mp4" width="500" height="200" /></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/Video_Sketching.mp4" width="500" height="200" /></p>
 
 <!-- buttons -->
 
