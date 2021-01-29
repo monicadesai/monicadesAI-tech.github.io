@@ -35,12 +35,12 @@
 | **Data Analysis**                          |             EDA, Research, Predictive, Data Manipulation, Interpretation                     |
 | **Data Visualisation**                     |             Pattern Identification, Story Telling, Interactive Interfaces, Matplotlib, Seaborn, Tableau |                               
 | ** Databases**                             |             MySQL, NoSQL, PostgreSQL                                                          |
-| **Mathematics**                            |             _Statistics, _Probability, _Theory                                              |
-| **Web Tools/Front-End Technologies**       |             _HTML, _CSS, _VS Code, _Bootstrape, _Selenium                                   |
-| ** Modelling/Algorithms/Architecture**     |             _Statistical,_Linear, _Logistic, _Random Forest,_Decision Tree, _Boosting, _K-means, _Convolution Neural Network, _Neural Network  |                                                                                                                                                                                                                   
+| **Mathematics**                            |             Statistics, Probability, Theory                                                   |
+| **Web Tools/Front-End Technologies**       |             HTML, CSS, VS Code, Bootstrape, Selenium                                          |
+| ** Modelling/Algorithms/Architecture**     |             Statistical, Linear, Logistic, Random Forest, Decision Tree, Boosting, K-means, Convolution Neural Network, Neural Network  |                                                                                                                                                                                                                   
 | ** Frameworks **                           |             Flask, Scikit-Learn, TensorFlow, Keras, PyTorch, Scrapy |
-| **Libraries/Packages **                    |             _Numpy, _Pandas, _Seaborn, _Matplotlib, _Networkx, _SciPy, _Pillow, _OpenCV, _Spacy, _Eli5, _Bokeh, _Plotly,  _Requests, _BeautifulSoup,  _Googletrans |                                         
-| **Deep Learning **                         |             _Image Processing, _Image Classification, _Image Segmentation, _Transormation, _Data  Augmentation, _Natural Language Processing, _Computer Vision,  _Object Detection, _Image Recognition, _Masking, _Type Annotation, _Labeling  |
+| **Libraries/Packages **                    |             Numpy, Pandas, Seaborn, Matplotlib, Networkx, SciPy, Pillow, OpenCV, Spacy, Eli5, Bokeh, Plotly,  Requests, BeautifulSoup, Googletrans |                                         
+| **Deep Learning **                         |             Image Processing, Image Classification, Image Segmentation, Transormation, Data  Augmentation, Natural Language Processing, Computer Vision,  Object Detection, Image Recognition, Masking, Type Annotation, Labeling  |
                                                                      
                                                            
                                                            
