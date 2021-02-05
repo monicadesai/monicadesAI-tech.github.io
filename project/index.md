@@ -4,7 +4,7 @@
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_65" title="GitHub Repository" target="_blank">Car Price Prediction Application</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/monicadesAI-tech/Project_65" title="GitHub Repository" target="_blank">Valuation Envisioner</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -21,11 +21,11 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="http://mlcarpriceprediction.herokuapp.com/" target="_blank"><img src="button-live-web-app.png" /></a> &nbsp; &nbsp; <a href="carprice.html" target="_blank"><img src="button-website.png" /></a> &nbsp; &nbsp; <a href="https://github.com/monicadesAI-tech/Project_65" target="_blank"><img src="button-github-repo.png" /></a> &nbsp; &nbsp; 
 
-<!--- Countries GDP Prediction Application ML project --->
+<!--- Countries GDP Optimizer/Prediction Application ML project --->
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_78" title="Github Repository" target="_blank">Countries GDP Optimizer</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/monicadesAI-tech/Project_78" title="Github Repository" target="_blank">Bust and Boom Perk</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -42,11 +42,11 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://mlgdp.herokuapp.com/" target="_blank"><img src="button-live-web-app.png" /></a> &nbsp; &nbsp; <a href="countriesgdp.html" target="_blank"><img src="button-website.png" /></a> &nbsp; &nbsp; <a href="https://github.com/monicadesAI-tech/Project_78" target="_blank"><img src="button-github-repo.png" /></a>
 
-<!--- Flight Price Prediction Application ML project --->
+<!--- Flight Price Estimator/Prediction Application ML project --->
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_72" title="Github Repository" target="_blank">Flight Price Estimator</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/monicadesAI-tech/Project_72" title="Github Repository" target="_blank">Customized Airfare API</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -63,11 +63,11 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://mlflightpricepredictionapp.herokuapp.com/" target="_blank"><img src="button-live-web-app.png" /></a> &nbsp; &nbsp; <a href="flightprice.html" target="_blank"><img src="button-website.png" /></a> &nbsp; &nbsp; <a href="https://github.com/monicadesAI-tech/Project_72" target="_blank"><img src="button-github-repo.png" /></a>
 
-<!--- Cricket Score Prediction Application ML project --->
+<!--- Cricket Score Analyzer/Prediction Application ML project --->
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_73" title="Github Repository" target="_blank">Cricket Score Analyzer</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/monicadesAI-tech/Project_73" title="Github Repository" target="_blank">S2 - Sports Scrutinizer</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -85,11 +85,11 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="http://mlcricketscoreprediction.herokuapp.com/" target="_blank"><img src="button-live-web-app.png" /></a> &nbsp; &nbsp; <a href="cricketipl.html" target="_blank"><img src="button-website.png" /></a> &nbsp; &nbsp; <a href="https://github.com/monicadesAI-tech/Project_73" target="_blank"><img src="button-github-repo.png" /></a>
 
 
-<!--- Salary Prediction Application ML project --->
+<!--- Salary Predictor/Prediction Application ML project --->
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_67" title="Github Repository" target="_blank">Salary Predictor</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/monicadesAI-tech/Project_67" title="Github Repository" target="_blank">Ms.Salary Expert</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -108,11 +108,11 @@
 
 
 
-<!--- Bank Note Authentication Prediction Application ML project --->
+<!--- Bank Note Authenticator/Authentication Prediction Application ML project --->
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_77" title="Github Repository" target="_blank">Bank Note Authenticator</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/monicadesAI-tech/Project_77" title="Github Repository" target="_blank">Wealth Vow</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -135,7 +135,7 @@
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_79" title="Github Repository" target="_blank">Business Development Predicton Application</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/monicadesAI-tech/Project_79" title="Github Repository" target="_blank">GroBiz</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -154,11 +154,11 @@
 
 
 
-<!--- Cotton Disease Detection Application DL project --->
+<!--- Cotton Disease Image Classifier/Detection Application DL project --->
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_74" title="GitHub Repository" target="_blank">Cotton Disease Image Classifier</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/monicadesAI-tech/Project_74" title="GitHub Repository" target="_blank">Smart Farming</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
@@ -201,11 +201,11 @@
 
 
 
-<!--- Car Brand Image Detection Application DL project --->
+<!--- Car Brand Image Un-masker/Detection Application DL project --->
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_66" title="GitHub Repository" target="_blank">Car Brand Image Un-masker</a> &nbsp; 
+### <a href="https://github.com/monicadesAI-tech/Project_66" title="GitHub Repository" target="_blank">Hall-mark Un-masker</a> &nbsp; 
 ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
@@ -229,7 +229,7 @@
 
 <!-- title -->
 
-### <a href="https://github.com/monicadesAI-tech/Project_10" title="GitHub Repository" target="_blank">Solid-Waste Identifier</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
+### <a href="https://github.com/monicadesAI-tech/Project_10" title="GitHub Repository" target="_blank">Superfluous Radar</a> &nbsp; ![image](/assets/icons/rsz_python-logo.png)
 
 <!-- body text -->
 
