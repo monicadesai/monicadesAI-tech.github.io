@@ -65,8 +65,8 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 
 ## **Employment**
 
-`Nov,2019-Nov,2020` **Reports Analyst**
-&nbsp; &nbsp; &nbsp; Cozzy Pvt Ltd
+`Nov,2019-Nov,2020` **Reports Analyst** <br/>
+                    Cozzy Pvt Ltd
 
 : > •	Identified KPIs that raised area coverage 2 times more
 : > •	Structured shipping logs resulted in unified resources
@@ -74,8 +74,8 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 : > •	Conducted quantitative & qualitative visualization analytics on broad array of issues leveraged quarter of deliverables
 : > •	Created process that reduced production time by 20minutes
 
-`Aug,2018-Oct,2019` **Ed-Tech Analyst**
-&nbsp; &nbsp; &nbsp; Rankers
+`Aug,2018-Oct,2019` **Ed-Tech Analyst** <br/>
+                    Rankers
 
 : > •	Designed story-board that discovered pattern growth vs causes location-wise
 : > •	Shortened wait time for new clients by 20%
@@ -83,8 +83,8 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 : > •	Formulated Interactive micro-credentials led to optimized gaps
 : > •	Created handy consolidated ed-tech material for customized evaluation
 
-`June,2017-July,2018` **Application Integration Specialist**
-&nbsp; &nbsp; &nbsp; ABC Pvt Ltd
+`June,2017-July,2018` **Application Integration Specialist** <br/>
+                      Univeresal
 
 : > •	Elevated user rating from 4.0 to 4.5 after instituting a new service program
 : > •	Eliminated root cause of 80% of grievance by integrated daily updates to be informed
@@ -92,8 +92,8 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 : > •	Improved targeted time of faculties by implementation of crafted video-based app
 : > •	Managed creation of 2 last minute presentation in 48hours
 
-`Nov,2019-Nov,2020` **Reports Analyst**
-&nbsp; &nbsp; &nbsp; ABC Pvt Ltd
+`Nov,2019-Nov,2020` **Technology Co-ordinator**
+                    Learning Panorama
 : > •	Validated competency for different types of users
 : > •	Designed tech curriculum policies in a way that saved Rs.20,000 by re-negotiation
 : > •	Presented spontaneous graphics & reports to collaborate with international entity
