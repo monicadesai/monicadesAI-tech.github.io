@@ -217,7 +217,7 @@
 * **Improved under-fitted model accuracy 3times more** with the help of epochs that tuned into optimized curve. 
 
 <!-- image -->
-<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/carbrand.png" width="500" height="200" /></p>
+<p align="center"><img src="https://monicadesAI-tech.github.io/assets/img/carbrand1.png" width="500" height="200" /></p>
 
 <!-- buttons -->
 
