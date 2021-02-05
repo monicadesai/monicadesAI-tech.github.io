@@ -18,7 +18,7 @@
 |
 <a href="" target="_blank">Video Resume</a>**</span>
 
-# Tech Stack
+# **Tech Stack**
 ## **Programming Language Skills**
 
 ```python
@@ -28,6 +28,7 @@
 4. SQL
 5. C/C++
 ```
+## **Core Compentencies**
 
 | <span style="color:blue">**Area**</span> | <span style="color:blue">**Expertise**</span>                                                                         |
 | :----------------------------------------- | --------------------------------------------------------------------------------------------------------------------|
@@ -42,46 +43,62 @@
 | **Libraries/Packages**                     |             Numpy, Pandas, Seaborn, Matplotlib, Networkx, SciPy, Pillow, OpenCV, Spacy, Eli5, Bokeh, Plotly,  Requests, BeautifulSoup, Googletrans |                                         
 | **Deep Learning**                         |             Image Processing, Image Classification, Image Segmentation, Transormation, Data  Augmentation, Natural Language Processing, Computer Vision,  Object Detection, Image Recognition, Masking, Type Annotation, Labeling  |
                                                                      
-                                                           
-                                                           
-
-
-
-
+                                                                                                                     
 ---
 
 ## **Education**
 
-`2018-2020` **Masters in IT**
+`2018-2020` **Masters in IT** <br/>
  University of Mumbai
 
-`2020-2021` **Post Graduate Certified in Data Science & Artificial Intelligence**
+`2020-2021` **Post Graduate Certified in Data Science & Artificial Intelligence** <br/>
  Edvancer & TCS Certified
 
-`2021` **Advances in SAR-Polarimetry & Interferometry**
+`2021` **Advances in SAR-Polarimetry & Interferometry** <br/>
  Indian Space Research Organization & Indian Insititute of Remote Sensing Certified
  
-`2020` **Global Navigation Satellite System**
+`2020` **Global Navigation Satellite System** <br/>
 Indian Space Research Organization & Indian Insititute of Remote Sensing Certified
  
-
-
-
-
 
 ---
 
 ## **Employment**
 
 `Nov,2019-Nov,2020` **Reports Analyst**
+&nbsp; &nbsp; &nbsp; Cozzy Pvt Ltd
+
+: > •	Identified KPIs that raised area coverage 2 times more
+: > •	Structured shipping logs resulted in unified resources
+: > •	Developed dashboards, reports that resolved 18% of client’s queries
+: > •	Conducted quantitative & qualitative visualization analytics on broad array of issues leveraged quarter of deliverables
+: > •	Created process that reduced production time by 20minutes
+
+`Aug,2018-Oct,2019` **Ed-Tech Analyst**
+&nbsp; &nbsp; &nbsp; Rankers
+
+: > •	Designed story-board that discovered pattern growth vs causes location-wise
+: > •	Shortened wait time for new clients by 20%
+: > •	Proven in enhancing brand identity leading to loyal customer base
+: > •	Formulated Interactive micro-credentials led to optimized gaps
+: > •	Created handy consolidated ed-tech material for customized evaluation
+
+`June,2017-July,2018` **Application Integration Specialist**
 &nbsp; &nbsp; &nbsp; ABC Pvt Ltd
 
-: > Currently **performing my own research into the sentiment and causal impacts of COVID-19 in Twitter**.
-: > 
-: > 
+: > •	Elevated user rating from 4.0 to 4.5 after instituting a new service program
+: > •	Eliminated root cause of 80% of grievance by integrated daily updates to be informed
+: > •	Headed 2 juniors for seamless application incorporation in favor of user
+: > •	Improved targeted time of faculties by implementation of crafted video-based app
+: > •	Managed creation of 2 last minute presentation in 48hours
 
-
-
+`Nov,2019-Nov,2020` **Reports Analyst**
+&nbsp; &nbsp; &nbsp; ABC Pvt Ltd
+: > •	Validated competency for different types of users
+: > •	Designed tech curriculum policies in a way that saved Rs.20,000 by re-negotiation
+: > •	Presented spontaneous graphics & reports to collaborate with international entity
+: > •	Managed installation, instructional setups & implemented recommended technology to meet company-wide objectives
+: > •	Divulgue with multi-cultural people that fostered elasticity to adept
 
 
 # **Contact Links**
