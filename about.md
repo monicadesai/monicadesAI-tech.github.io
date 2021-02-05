@@ -61,12 +61,12 @@
 Indian Space Research Organization & Indian Insititute of Remote Sensing Certified
  
 
----
+--- 
 
 ## **Employment**
 
 `Nov,2019-Nov,2020` **Reports Analyst** <br/>
-                    Cozzy Pvt Ltd
+ &nbsp;&nbsp;&nbsp; Cozzy Pvt Ltd
 
 : > •	Identified KPIs that raised area coverage 2 times more
 : > •	Structured shipping logs resulted in unified resources
