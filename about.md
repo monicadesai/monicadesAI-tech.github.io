@@ -10,7 +10,7 @@
 |
 <a href="https://twitter.com/MonicaDesai92" target="_blank">Twitter</a>
 |
-<a href="" target="_blank">Instagram</a>
+<a href="https://www.instagram.com/monica_desai_92/" target="_blank">Instagram</a>
 |
 <a href="" target="_blank">PDF Paper Resume</a>
 |
@@ -52,19 +52,18 @@
 
 ## **Education**
 
-`2018-2020` **University of Mumbai**
+`2018-2020` **Masters in IT**
+ University of Mumbai
 
- Masters in **Information Technology**
- _GPA: 9.5/10.0_
+`2020-2021` **Post Graduate Certified in Data Science & Artificial Intelligence**
+ Edvancer & TCS Certified
 
-`2020-2021` **TCS Certification**
-
- Post Graduate Certified in **Data Science & AI**
-
-`2009-2012` **University of Mumbai**
-
- Bachelor of science in **Information Technology**
- _GPA: 5.0/7.0_
+`2021` **Advances in SAR-Polarimetry & Interferometry**
+ Indian Space Research Organization & Indian Insititute of Remote Sensing Certified
+ 
+`2020` **Global Navigation Satellite System**
+Indian Space Research Organization & Indian Insititute of Remote Sensing Certified
+ 
 
 
 
@@ -74,7 +73,7 @@
 
 ## **Employment**
 
-`Nov,2019-Nov,2020` **Logistics & Reporting Analyst**
+`Nov,2019-Nov,2020` **Reports Analyst**
 &nbsp; &nbsp; &nbsp; ABC Pvt Ltd
 
 : > Currently **performing my own research into the sentiment and causal impacts of COVID-19 in Twitter**.
@@ -97,7 +96,7 @@
 |
 <a href="https://twitter.com/MonicaDesai92" target="_blank">Twitter</a>
 |
-<a href="" target="_blank">Instagram</a>
+<a href="https://www.instagram.com/monica_desai_92/" target="_blank">Instagram</a>
 |
 <a href="" target="_blank">PDF Paper Resume</a>
 |
