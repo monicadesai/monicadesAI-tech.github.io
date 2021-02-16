@@ -66,7 +66,7 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 ## **Employment**
 
 `Nov,2019-Nov,2020` **Reports Analyst** <br/>
-                    Cozzy Pvt Ltd
+                    Hindustan Paperworks
 
 : > •	Identified KPIs that raised area coverage 2 times more
 : > •	Structured shipping logs resulted in unified resources
@@ -83,7 +83,7 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 : > •	Formulated Interactive micro-credentials led to optimized gaps
 : > •	Created handy consolidated ed-tech material for customized evaluation
 
-`June,2017-July,2018` **Application Integration Specialist** <br/>
+`June,2017-July,2018` **Integration Application Software Engineer** <br/>
                       Univeresal
 
 : > •	Elevated user rating from 4.0 to 4.5 after instituting a new service program
@@ -92,7 +92,7 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 : > •	Improved targeted time of faculties by implementation of crafted video-based app
 : > •	Managed creation of 2 last minute presentation in 48hours
 
-`Nov,2019-Nov,2020` **Technology Co-ordinator**
+`Nov,2019-Nov,2020` **Technology Consultant**
                     Learning Panorama
 : > •	Validated competency for different types of users
 : > •	Designed tech curriculum policies in a way that saved Rs.20,000 by re-negotiation
