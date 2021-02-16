@@ -119,6 +119,6 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 |
 <a href="" target="_blank">Visual Resume</a>
 |
-<a href="" target="_blank">Video Resume</a>**</span>
+<a href="https://drive.google.com/file/d/1oYdqPxfi5rzTSB3GKsZOqXoEt4FYCdbY/view?usp=sharing" target="_blank">Video Resume</a>**</span>
 
 
