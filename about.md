@@ -10,8 +10,8 @@
 |
 <!--<a href="https://twitter.com/MonicaDesai92" target="_blank">Twitter</a>
 |
-<a href="https://www.instagram.com/monica_desai_92/" target="_blank">Instagram</a>-->
-|
+<a href="https://www.instagram.com/monica_desai_92/" target="_blank">Instagram</a>
+|-->
 <a href=" " target="_blank">PDF Paper Resume</a>
 |
 <a href="" target="_blank">Visual Resume</a>
@@ -113,8 +113,8 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 |
 <!--<a href="https://twitter.com/MonicaDesai92" target="_blank">Twitter</a>
 |
-<a href="https://www.instagram.com/monica_desai_92/" target="_blank">Instagram</a>-->
-|
+<a href="https://www.instagram.com/monica_desai_92/" target="_blank">Instagram</a>
+|-->
 <a href="" target="_blank">PDF Paper Resume</a>
 |
 <a href="" target="_blank">Visual Resume</a>
