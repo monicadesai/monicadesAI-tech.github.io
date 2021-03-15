@@ -11,11 +11,11 @@
 <!--<a href="https://twitter.com/MonicaDesai92" target="_blank">Twitter</a>
 |
 <a href="https://www.instagram.com/monica_desai_92/" target="_blank">Instagram</a>
-|-->
+|
 <a href=" " target="_blank">PDF Paper Resume</a>
 |
 <a href="" target="_blank">Visual Resume</a>
-|
+|-->
 <a href="https://drive.google.com/file/d/1oYdqPxfi5rzTSB3GKsZOqXoEt4FYCdbY/view?usp=sharing" target="_blank">Video Resume</a>**</span>
 
 # **Tech Stack**
