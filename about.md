@@ -74,31 +74,6 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 : > •	Conducted quantitative & qualitative visualization analytics on broad array of issues leveraged quarter of deliverables
 : > •	Created process that reduced production time by 20minutes
 
-`Aug,2018-Oct,2019` **Ed-Tech Analyst** <br/>
-                    Rankers
-
-: > •	Designed story-board that discovered pattern growth vs causes location-wise
-: > •	Shortened wait time for new clients by 20%
-: > •	Proven in enhancing brand identity leading to loyal customer base
-: > •	Formulated Interactive micro-credentials led to optimized gaps
-: > •	Created handy consolidated ed-tech material for customized evaluation
-
-`June,2017-July,2018` **Integration Application Software Engineer** <br/>
-                      Univeresal
-
-: > •	Elevated user rating from 4.0 to 4.5 after instituting a new service program
-: > •	Eliminated root cause of 80% of grievance by integrated daily updates to be informed
-: > •	Headed 2 juniors for seamless application incorporation in favor of user
-: > •	Improved targeted time of faculties by implementation of crafted video-based app
-: > •	Managed creation of 2 last minute presentation in 48hours
-
-`Nov,2019-Nov,2020` **Technology Consultant**
-                    Learning Panorama
-: > •	Validated competency for different types of users
-: > •	Designed tech curriculum policies in a way that saved Rs.20,000 by re-negotiation
-: > •	Presented spontaneous graphics & reports to collaborate with international entity
-: > •	Managed installation, instructional setups & implemented recommended technology to meet company-wide objectives
-: > •	Divulgue with multi-cultural people that fostered elasticity to adept
 
 
 # **Contact Links**
@@ -114,10 +89,10 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 <!--<a href="https://twitter.com/MonicaDesai92" target="_blank">Twitter</a>
 |
 <a href="https://www.instagram.com/monica_desai_92/" target="_blank">Instagram</a>
-|-->
+|
 <a href="" target="_blank">PDF Paper Resume</a>
 |
-<a href="" target="_blank">Visual Resume</a>
+<a href="" target="_blank">Visual Resume</a>-->
 |
 <a href="https://drive.google.com/file/d/1oYdqPxfi5rzTSB3GKsZOqXoEt4FYCdbY/view?usp=sharing" target="_blank">Video Resume</a>**</span>
 
