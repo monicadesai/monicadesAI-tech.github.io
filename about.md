@@ -65,7 +65,7 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 
 ## **Employment**
 
-`Nov,2019-Nov,2020` **Reports Analyst** <br/>
+`Nov,2019-Nov,2020` **Data Analyst** <br/>
                     Hindustan Paperworks
 
 : > •	Identified KPIs that raised area coverage 2 times more
@@ -73,6 +73,7 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 : > •	Developed dashboards, reports that resolved 18% of client’s queries
 : > •	Conducted quantitative & qualitative visualization analytics on broad array of issues leveraged quarter of deliverables
 : > •	Created process that reduced production time by 20minutes
+: > •	Link between various levels of employees for effective communication that improved 24% productivity both internally and onsite. 
 
 
 
