@@ -66,7 +66,7 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 ## **Employment**
 
 `Nov,2019-Nov,2020` **Data Analyst** <br/>
-                    Hindustan Paperworks
+                    ABC
 
 : > •	Identified KPIs that raised area coverage 2 times more
 : > •	Structured shipping logs resulted in unified resources
