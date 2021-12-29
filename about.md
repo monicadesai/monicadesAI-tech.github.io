@@ -65,6 +65,28 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 
 ## **Employment**
 
+
+`Apr,2021-Dec,2021` **Research Data Scientist** <br/>
+                    ABC
+
+: > •	Developed a Machine Learning Model for identification of URLs and also optimized it to 98% with pre-processing for threatintel url dataset
+: > •	Created a Deep Learning Model using pytorch, keras, tensorflow for PE File detection and also optimized it to 98% with 8 lakhs of data
+: > •	Developed production ready codebase in core python for 70 single and multi-device usecases for various clients based on their requirement and risk level
+: > •	Generated visualization reports and identified trends and formulated product problems into feasible ML analysis
+: > •	Developed Machine Learning Model for identification of IP address through custom function needed to make it semi-automated process
+: > •	Figure-out high-level research papers and road-map that helped team to prioritize future experiments and direction to improve the product 
+: > •	Independently ran and analyze the whole ML and DL module
+: > •	Diagnosed critical issues with dataset that in turn raised 30% improvement in final result
+: > •	Devised pipelines in model and supported with POC, ad-hoc analysis, technical documentation to present result in simplified manner
+
+
+`Dec,2019-March,2020` **Customized Data Specialist** <br/>
+                    ABC
+
+: > •	Achieved Recognitions from Edvancer and Indian Space Research Organization.
+: > •	Developed 80+ projects on github, ratio is 180:300
+
+
 `Nov,2019-Nov,2020` **Data Analyst** <br/>
                     ABC
 
@@ -73,7 +95,6 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 : > •	Developed dashboards, reports that resolved 18% of client’s queries
 : > •	Conducted quantitative & qualitative visualization analytics on broad array of issues leveraged quarter of deliverables
 : > •	Created process that reduced production time by 20minutes
-: > •	Link between various levels of employees for effective communication that improved 24% productivity both internally and onsite. 
 
 
 
