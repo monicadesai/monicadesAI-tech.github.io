@@ -84,7 +84,7 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
                     ABC
 
 : > •	Achieved Recognitions from Edvancer and Indian Space Research Organization.
-: > •	Developed 80+ projects on github, ratio is 180:300
+: > •	Developed 80+ projects on github, ratio is 180:250
 
 
 `Nov,2019-Nov,2020` **Data Analyst** <br/>
