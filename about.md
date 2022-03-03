@@ -80,21 +80,11 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 : > •	Devised pipelines in model and supported with POC, ad-hoc analysis, technical documentation to present result in simplified manner
 
 
-`Dec,2019-March,2020` **Customized Data Specialist** <br/>
+`Dec,2019-March,2020` **Skill Upgradation and Certifications** <br/>
                     ABC
 
 : > •	Achieved Recognitions from Edvancer and Indian Space Research Organization.
 : > •	Developed 80+ projects on github, ratio is 180:250
-
-
-`Nov,2019-Nov,2020` **Data Analyst** <br/>
-                    ABC
-
-: > •	Identified KPIs that raised area coverage 2 times more
-: > •	Structured shipping logs resulted in unified resources
-: > •	Developed dashboards, reports that resolved 18% of client’s queries
-: > •	Conducted quantitative & qualitative visualization analytics on broad array of issues leveraged quarter of deliverables
-: > •	Created process that reduced production time by 20minutes
 
 
 
