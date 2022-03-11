@@ -87,17 +87,6 @@ Indian Space Research Organization & Indian Insititute of Remote Sensing Certifi
 : > •	Developed 80+ projects on github, ratio is 180:250
 
 
-`Nov,2019-Nov,2020` **Data Analyst** <br/>
-                    ABC
-
-: > •	Identified KPIs that raised area coverage 2 times more
-: > •	Structured shipping logs resulted in unified resources
-: > •	Developed dashboards, reports that resolved 18% of client’s queries
-: > •	Conducted quantitative & qualitative visualization analytics on broad array of issues leveraged quarter of deliverables
-: > •	Created process that reduced production time by 20minutes
-
-
-
 # **Contact Links**
 
 <span style="color:blue">**<a href="mailto:monicadesai92@gmail.com">monicadesai92@gmail.com</a>
